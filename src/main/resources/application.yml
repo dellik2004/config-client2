@@ -1,0 +1,3 @@
+spring:
+  bms:
+    keyGravity: Gravity key local
